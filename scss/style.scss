@@ -1,0 +1,102 @@
+$primary: #d3e9f7;
+$white: #fff;
+$dark: #333;
+
+.navbar{
+	
+	background: $primary !important;
+	
+	.navbar-brand{
+		
+		color: $dark;	
+	}
+	
+	.navbar-nav{
+		
+		.nav-item .nav-link{
+			
+			
+		
+		color:$dark;
+			
+		}
+	}
+	
+}
+
+.content{
+	background: #ccc;
+	min-height: 450px;
+	padding-top: 140px;
+}
+ .select{
+	padding: 60px 0;
+}
+
+section.cast{
+	h2{
+	margin-top: 120px !important;
+	}
+}
+
+.synopsis{
+
+	
+	
+	.card{
+		border-radius: 0;
+
+
+	}
+	.card-header{
+		
+	}
+}
+
+.hero{
+	background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),url(../../coding-924920_1920.jpg);
+	min-height: 60vh;
+	background-size: cover;
+	background-attachment: fixed;
+	padding-top: 90px;
+	
+	p{
+		
+		color: #fff;
+		padding-top: 40px;
+		font-size: 1.3em;
+		padding-bottom: 60px;
+	}
+	
+	.fa{
+		color: #fff;
+	}
+	
+	h3{
+		padding-top: 25px;
+		color: #FFF;
+	}
+}
+
+.add-cats, .add-people{
+	margin-top: 60px;
+}
+
+.people, .home, .intro{
+	background: $primary;
+	height: 125px;
+	padding-top: 50px;
+	text-align: center;
+	margin-bottom:0px;
+	text-transform: uppercase;
+	color: #333;
+	border-top: 3px solid #fff;	
+}
+
+.footer{
+	background: #000;
+	color: #fff;
+	text-transform: uppercase;	
+	padding: 25px;
+	margin-top: 60px;
+}

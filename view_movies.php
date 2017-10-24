@@ -7,7 +7,7 @@ if($r = mysqli_query($dbc,$query)){
 	
 	$row = mysqli_fetch_array($r);
 	
-define('TITLE',"Ultimate MySQL Course | {$row['title']}");
+define('TITLE',"Marquee Box Office | {$row['title']}");
 define('PAGE',"{$row['title']}");
 	
 }

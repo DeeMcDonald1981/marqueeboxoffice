@@ -1,5 +1,5 @@
 <?php 
-define('TITLE','Marquee Movie Database | Home');
+define('TITLE','Marquee Box Office | Home');
 define('PAGE','Home');
 include('inc/header.php');
 include('inc/banner.php');

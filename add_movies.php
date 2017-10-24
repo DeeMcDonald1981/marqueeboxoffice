@@ -1,6 +1,6 @@
 <?php
 define('PAGE','Add Movies');
-define('TITLE','Ultimate MySQL Course | Add Movies');
+define('TITLE','Marquee Box Office | Add Movies');
 include('inc/header.php');
 ?>
 <section class="intro">

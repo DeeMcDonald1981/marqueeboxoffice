@@ -17,12 +17,6 @@ include('inc/banner.php');
 
 
 
-
-
-	
-
-
-
 <section class="select">
 	<div class="container">
 		<div class="row">
